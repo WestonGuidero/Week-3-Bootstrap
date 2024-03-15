@@ -1,0 +1,24 @@
+{
+  "name": "week-3-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {},
+  "description": "bootstrap week website project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestonGuidero/week-3-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WestonGuidero/week-3-bootstrap/issues"
+  },
+  "homepage": "https://github.com/WestonGuidero/week-3-bootstrap#readme"
+}
